@@ -1,3 +1,8 @@
+# September 6, 2017
+# I am adding some documentation in this header
+# Then I will make a commit using R Studio
+# Ultimately I hope this goes to GitHub
+
 library(tm)
 library(SnowballC)
 library(wordcloud)
